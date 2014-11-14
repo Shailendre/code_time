@@ -1,7 +1,7 @@
 code_time
 =========
 
-my degined codes-of different 
+my designed codes-of different 
 languages included:
 c
 c++
