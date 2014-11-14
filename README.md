@@ -1,4 +1,9 @@
 code_time
 =========
 
-my codes-of different lang
+my degined codes-of different 
+languages included:
+c
+c++
+java
+python
